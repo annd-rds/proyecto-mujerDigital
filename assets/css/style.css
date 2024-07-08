@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+h1{
+    text-align: center;
+    font-family: "Yellowtail", cursive;
+    font-size: 80px;
+}
+
+.contenedorArriba{
+    width: 100%;
+    padding: 15px;
+    justify-content: space-evenly;
+}
+.contenedor__datos{
+    font-family: "Yellowtail", cursive;
+    text-align: center;
+}
+.icons{
+    text-align: center;
+}
+
+#fuente{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+
